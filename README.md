@@ -4,7 +4,7 @@
 <p align="center">
     ay ♧
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+<img src="https://komarev.com/ghpvc/?username=ay ♧&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/709827684888215582.png" />
